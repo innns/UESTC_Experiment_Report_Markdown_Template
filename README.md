@@ -7,8 +7,8 @@ UESTC_Experiment_Report_Markdown_Template. 电子科技大学实验报告Markdow
 
 使用环境:
 + VS Code 
-+ yzhang.markdown-all-in-one 
-+ shd101wyy.markdown-preview-enhanced 
++ 插件 yzhang.markdown-all-in-one 
++ 插件 shd101wyy.markdown-preview-enhanced 
 + Chrome
 
 输出选用Chrome.   
