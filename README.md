@@ -15,5 +15,5 @@ UESTC_Experiment_Report_Markdown_Template. 电子科技大学实验报告Markdow
 若输出有问题 请更改此项设置 markdown-preview-enhanced.chromePath  
 安利文件头/函数注释生成插件: obkoro1.korofileheader
 
-![pic](UESTC_Experiment_Report_Markdown_Template/1.png "P1")
-![pic](UESTC_Experiment_Report_Markdown_Template/2.png "P2")
+![pic](https://gitee.com/innns/UESTC_Experiment_Report_Markdown_Template/raw/master/UESTC_Experiment_Report_Markdown_Template/1.png)
+![pic](https://gitee.com/innns/UESTC_Experiment_Report_Markdown_Template/raw/master/UESTC_Experiment_Report_Markdown_Template/2.png)
